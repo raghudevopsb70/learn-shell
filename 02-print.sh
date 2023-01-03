@@ -18,4 +18,5 @@ echo -e "\e[35mMESSAGE\e[0m"
 echo -e "\e[36mMESSAGE\e[0m"
 
 
+# https://misc.flogisoft.com/bash/tip_colors_and_formatting
 
