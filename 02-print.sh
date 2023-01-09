@@ -20,3 +20,4 @@ echo -e "\e[36mMESSAGE\e[0m"
 
 # https://misc.flogisoft.com/bash/tip_colors_and_formatting
 
+echo -e "Line1\nLine2"
