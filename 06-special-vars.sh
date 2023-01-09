@@ -21,4 +21,4 @@ echo "# - $#"
 
 example $*
 
-exit 
+exit 1
