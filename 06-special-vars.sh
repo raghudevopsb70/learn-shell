@@ -20,3 +20,5 @@ echo "# - $#"
 
 
 example $*
+
+exit 
