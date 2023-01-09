@@ -19,3 +19,4 @@ elif [ "${course_name}" == "AZURE" ]; then
 else
   echo "Unknown Course Name"
 fi
+
